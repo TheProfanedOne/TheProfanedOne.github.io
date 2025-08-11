@@ -258,18 +258,6 @@ const default_configuration = {
               icon: "brand-steam",
               icon_color: palette.peach,
             },
-            {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
-              icon_color: palette.red,
-            },
-            {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
-              icon_color: palette.blue,
-            },
           ],
         },
         {
@@ -292,12 +280,6 @@ const default_configuration = {
               url: "https://www.patreon.com",
               icon: "brand-patreon",
               icon_color: palette.red,
-            },
-            {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
-              icon_color: palette.blue,
             },
           ],
         },
